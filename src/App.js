@@ -15,4 +15,8 @@ function App() {
   );
 }
 
+<<<<<<< HEAD
 export default withAuthenticator(App);
+=======
+export default withAuthenticator(App);
+>>>>>>> eab9efa5c508b4d3bc7567a54c377d0fc03e4da4
